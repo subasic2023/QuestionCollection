@@ -6,8 +6,8 @@ The name of this file is "ReadMe.txt" and it is recommended to read it first.
 I this file I will explain all files and organisation of my course-project. 
 
 This collections of .zip files are quuestions constructed by using möbius Courseware. 
-The collection with same name of files but in .png format is print screen for each question. 
-The questions are constructed by using SCROM method and could be installed in any quiz-software which support SCROM-method. 
+The collection with same name of files but in .png format is print screen of the correct answers for each question. 
+The questions are constructed by using SCROM method and could be installed in any quiz-software supporting SCROM-method. 
 Unziped file have .XML format and can (partly) be seen by usual browser. Obs! Not all quiz-functions in SCROM are available in a browser.
 
 
